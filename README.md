@@ -26,6 +26,6 @@
  <img src="https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white">
 
 #### My SNS!
- <a href="https://www.instagram.com/jun2graphy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 </div>
