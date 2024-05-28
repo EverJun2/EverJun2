@@ -18,7 +18,7 @@
 #### I use this Tool!
 <!-- vscode eclipse 피그마 순 -->
  <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
+ <img src="https://img.shields.io/badge/intelij-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white">
  
 #### I've been use this Language
