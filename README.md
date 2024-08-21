@@ -5,27 +5,24 @@
 
 <div id = "main", align = center>
 
-### Undergraduate Student at KGU
-#### Certificates
+#### 다음 자격증을 가지고 있어요!
 <!-- sqld -->
   <img src="https://img.shields.io/badge/SQLD-3876F2?style=for-the-badge&logo=mysql&logoColor=white">
   
-#### I am studying this Language!
+#### <br>다음 언어를 공부 중이에요!
 <!-- java, javascript 순 -->
-  <img src="https://img.shields.io/badge/JAVA-168BF2?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-168BF2?style=for-the-badge&logo=javascript&logoColor=white">
-
-#### I use this Tool!
-<!-- vscode eclipse 피그마 순 -->
+  <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  
+#### <br>다음 툴을 사용할 수 있어요!
  <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/Intelij-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000"> 
  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white">
  
-#### I've been use this Language
-<!-- c순 -->
+#### <br>다음 언어를 사용할 수 있어요!
  <img src="https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white">
-
-#### My SNS!
- <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-
+ <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
