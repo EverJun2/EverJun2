@@ -9,21 +9,23 @@
 <!-- sqld -->
   <img src="https://img.shields.io/badge/SQLD-3876F2?style=for-the-badge&logo=mysql&logoColor=white">
   
-#### <br>다음 언어를 공부 중이에요!
+#### <br>다음 기술을 공부 중이에요!
 <!-- java, javascript 순 -->
   <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  
+
+#### <br>다음 기술을 사용할 수 있어요!
+ <img src="https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+ 
 #### <br>다음 툴을 사용할 수 있어요!
  <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/Intelij-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000"> 
  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white">
  
-#### <br>다음 언어를 사용할 수 있어요!
- <img src="https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white">
- <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
 </div>
 <br><br>
