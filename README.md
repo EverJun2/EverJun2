@@ -19,6 +19,7 @@
   #### 다음 자격증을 가지고 있어요!
 <!-- sqld -->
   <img src="https://img.shields.io/badge/SQLD-3876F2?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSTS-3876F2?style=for-the-badge&logo=&logoColor=white">
   
   #### <br>다음 기술을 공부 중이에요!
 <!-- java, javascript 순 -->
